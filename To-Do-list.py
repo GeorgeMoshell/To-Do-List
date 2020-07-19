@@ -1,5 +1,5 @@
 from tabulate import tabulate
-import datetime as d
+import datetime 
 
 
 ans_name = "someone"
@@ -22,7 +22,7 @@ while not ans_name =="Fluke":
 
 
 def time():
-    d.d.now()
-    print(d.strftime("%x"))
+    x = datetime.datetime.now()
+    print(x.strftime("%x"))
 
 time()

@@ -5,8 +5,19 @@ Hello fellow!
 
 
 
-I'M JUST A START HERE 
+I'M JUST A STARTED HERE 
+
+
+
+
 THIS 'TO-DO-LIST' IS JUST BEGAN!
+
+
+
+
 ....WAIT FOR FUTHER MORE INFORMATION.....
+
+
+
 
 ....WORKING ON LOGIN INTERFACE.........
